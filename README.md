@@ -1,4 +1,4 @@
-# colab
+# Quantmoon Colab Resources
 
 This Quantmoon Respository contains external collaborations of international and local partners.
 
